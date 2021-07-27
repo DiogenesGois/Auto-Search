@@ -5,7 +5,7 @@
 
 Auto Search é um programa criado no âmbito da disciplina de Programação Orientada a Objetos, do curso de Técnico/a Especialista em Tecnologias e Programação de Sistemas de Informação, do CINEL. 
 
-O programa é uma plataforma que permite aos utilizadores Pesquisar, e atualizar uma base de dados de marcas e modelos de carros. O programa também permite o cadastro de novos utilizadores para fins de autenticação.
+O programa é uma plataforma que permite aos utilizadores pesquisar e atualizar uma base de dados de marcas e modelos de carros. O programa também permite o cadastro de novos utilizadores para fins de autenticação.
 O Programa foi desenvolvido em C# e é uma aplicação desktop.
 
 ## Layout desktop
