@@ -1,4 +1,4 @@
-# Big Game Survey 
+# Auto Search
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/DiogenesGois/Auto-Search/blob/main/LICENSE) 
 
 # Sobre o projeto
