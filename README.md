@@ -37,7 +37,7 @@ O Programa foi desenvolvido em C# e é uma aplicação desktop.
 
 ## Back end
 Pré-requisitos: 
-Windows
+Windows,
 SQL Server
 
 ```bash
@@ -45,7 +45,7 @@ SQL Server
 git clone https://github.com/DiogenesGois/Estudos-de-CSharp
 
 # entrar na pasta do projeto final
-cd ProjetoFinal\bin\Debug
+cd ProjetoFinal/bin/Debug
 
 # executar o projeto
 ./ProjetoFinal.exe
